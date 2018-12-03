@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543876311030.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2B8FD5D6",
+    "lastKnownWriteTime" : 1543876396,
+    "last_content_update" : 1543876396016,
+    "path" : "~/Project Notes/gRowth/multitable/R/multi-table.R",
+    "project_path" : "R/multi-table.R",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
